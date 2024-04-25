@@ -2,7 +2,7 @@ import React from 'react'
 
 function Testing() {
   return (
-    <div>Testing</div>
+    <div>Testing is good for every devloper</div>
   )
 }
 
